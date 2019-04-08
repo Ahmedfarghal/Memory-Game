@@ -1,6 +1,10 @@
 # Memory Game Project
 Just active your memory.
 
+<img width="838" alt="Screen Shot 2019-04-08 at 11 26 20 AM" src="https://user-images.githubusercontent.com/20688971/55714022-2a691c00-59f2-11e9-8c62-6768e0c0814d.png">
+
+
+
 ##What is the Memory Game
 This is a simple game built to test the users memory. There's a deck of cards with different icons all you have to do is to match cards similar to each others.
 
